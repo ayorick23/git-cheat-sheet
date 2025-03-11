@@ -2,7 +2,7 @@
 ---
 
 ### `git-commands.md` – **Lista de comandos documentados con formato**
-```md
+
 # Essential Git Commands
 
 ## Basic Commands
