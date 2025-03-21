@@ -19,7 +19,7 @@
   ```bash
   git commit #hace el commit y te manda a VIM para agregar el mensaje
   git commit -m "Mensaje del commit" #hace el commit agregando el mensaje
-  git commit -m -a #agrega todos los archivos y hace el commit de una sola vez
+  git commit -am #agrega todos los archivos y hace el commit de una sola vez
 
 ## `git status`
 - **Descripción**: Muestra el estado del repositorio actual.
