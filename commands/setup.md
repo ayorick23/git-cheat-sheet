@@ -21,3 +21,9 @@ $ git config --global color.ui auto
 ```
 
 Habilita la útil colorización del producto de la línea de comando
+
+```bash
+$ git config --global --edit
+```
+
+Edita el archivo de configuración global en un editor de texto

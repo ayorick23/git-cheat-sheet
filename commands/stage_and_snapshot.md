@@ -23,7 +23,7 @@ $ git add [archivo]
 Agrega el archivo para preparar el commit
 
 ```bash
-$ git add [archivo]
+$ git add .
 ```
 
 Agrega todos los archivos para prepararlos para el commit
@@ -33,12 +33,6 @@ $ git diff --staged
 ```
 
 Muestra las diferencias del archivo entre el staging area y la última versión del archivo
-
-```bash
-$ git reset [archivo]
-```
-
-Mueve el archivo del staging area, pero preserva su contenido
 
 ```bash
 $ git commit -m "[mensaje descriptivo]"
@@ -51,3 +45,27 @@ $ git commit -am "[mensaje descriptivo]"
 ```
 
 Agrega el archivo actual y genera el commit con un mensaje
+
+```bash
+$ git commit --amend -m "[nuevo mensaje]"
+```
+
+Reescribe el último mensaje del commit
+
+```bash
+$ git restore [archivo]
+```
+
+Deshace los cambios que están en el stagging area
+
+```bash
+$ git restore --staged [archivo]
+```
+
+Desinstala el archivo, conservando los cambios del archivo
+
+```bash
+$ git rebase [rama]
+```
+
+Aplica cualquier commit de la rama actual anterior a la especificada

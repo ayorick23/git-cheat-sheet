@@ -14,4 +14,10 @@ Crea un nuevo repositorio local con el nombre especificado
 $ git clone [url-del-repositorio]
 ```
 
-Descarga un proyecto y toda su historia de versión
+Descarga un proyecto y toda su historial de versión
+
+```bash
+$ git clone [url-del-repositorio] [mi-directorio]
+```
+
+Clonar un repositorio dentro de un directorio específico
