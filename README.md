@@ -1,8 +1,21 @@
-# <img width="30" height="30" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git"> Git Cheat Sheet
+# <img width="30" height="30" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git"> **Git Cheat Sheet**
 
 ¡Bienvenido/a a **Git Cheat Sheet**! Este repositorio está diseñado para ser tu guía definitiva en el mundo de Git. Si eres un principiante que busca entender los comandos esenciales o alguien que necesita un recordatorio rápido, ¡has llegado al lugar correcto!
 
 Aquí encontrarás una colección completa de los comandos de Git más utilizados, cada uno con una explicación clara y ejemplos prácticos para que puedas empezar a usarlos de inmediato.
+
+## Tabla de Contenidos
+
+- [ **Git Cheat Sheet**](#-git-cheat-sheet)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+  - [🌎 Acerca de](#-acerca-de)
+  - [🚀 ¿Qué encontrarás aquí?](#-qué-encontrarás-aquí)
+  - [📂 Estructura del Repositorio](#-estructura-del-repositorio)
+  - [📝 ¿Cómo Usarlo?](#-cómo-usarlo)
+  - [🤝 Contribuciones](#-contribuciones)
+  - [🫂 Referencias y Agradecimientos](#-referencias-y-agradecimientos)
+  - [📃 Licencia](#-licencia)
+  - [✉️ Contáctame](#️-contáctame)
 
 ## 🌎 Acerca de
 
